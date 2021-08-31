@@ -4,9 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=joao-salomao" alt="joao-salomao" /></a> </p>
 
-- 🌱 I’m currently learning about **Software Architecture and Distributed Systems**
-
-- 💬 Ask me about **Laravel, Vue and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
