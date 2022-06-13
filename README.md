@@ -2,7 +2,7 @@
 
 👉 Currently, I'm working as a Software Engineer at [GeekHunter](https://www.geekhunter.com.br). 
 
-👉 I'm studying things like software design, distributed computing and specific tools like  React, Next.js, GraphQL and Ruby on Rails.
+👉 I'm studying things like software design, distributed computing and specific tools like  React, Next.js, GraphQL, Node.js and Ruby on Rails.
 
 
 <h3 align="left">Connect with me:</h3>
